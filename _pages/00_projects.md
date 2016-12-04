@@ -10,4 +10,4 @@ permalink: /projects/
 
 A script to block tracker using /etc/hosts
 
-<a target="\_blank" href="https://ajacobsen.github.io/block-tracker/">Homepage</a>
+<a target="_blank" href="https://ajacobsen.github.io/block-tracker/">Homepage</a>
